@@ -1,0 +1,5 @@
+Desenvolva uma lógica que dada um lista de inteiros de 1 a 100, percorra ela e caso o numero seja:
+* divisível por 3 imprima "fizz"
+* divisível por 5 imprima "buzz"
+* divisível por 3 e 5 imprima "fizz buzz"
+* caso nao entre nas regras acima, deverá imprimir o próprio numero
