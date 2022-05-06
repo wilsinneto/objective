@@ -31,8 +31,6 @@ const isDivisible = (num) => {
   isDivisibleBy7(num);
 };
 
-(() => {
-  for (let element = initValue; element < totalValue; element++) {
-    isDivisible(element);
-  }
-})();
+for (let element = initValue; element < totalValue; element++) {
+  isDivisible(element);
+}
